@@ -1,0 +1,4 @@
+- install django rest framework and django-filter
+
+pip install djangorestframework
+pip install django-filter
